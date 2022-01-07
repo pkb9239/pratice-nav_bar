@@ -10,11 +10,8 @@
 ## 실행 화면
 
 - 화면이 꽉 찼을 때
-
-  ![1](../images/README/1-16415432525901.png)
+![1](https://user-images.githubusercontent.com/81172451/148514047-99901ab9-1ce9-4f24-bd51-16900564ea2c.png)
 
 - 화면이 작아졌을 때
-
-  ![2](../images/README/2.png)
-
-![3](../images/README/3.png)
+![2](https://user-images.githubusercontent.com/81172451/148514050-e7982602-8a1f-439b-a956-b7a68e809810.png)
+![3](https://user-images.githubusercontent.com/81172451/148514058-2a40c4bc-77a2-43ad-aef1-6baad55b7658.png)
