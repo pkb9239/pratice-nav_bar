@@ -10,8 +10,11 @@
 ## 실행 화면
 
 - 화면이 꽉 찼을 때
+
 <img src="https://user-images.githubusercontent.com/81172451/148514047-99901ab9-1ce9-4f24-bd51-16900564ea2c.png">
+
 - 화면이 작아졌을 때
+
 <img src="https://user-images.githubusercontent.com/81172451/148514047-99901ab9-1ce9-4f24-bd51-16900564ea2c.png">
 <img src="https://user-images.githubusercontent.com/81172451/148514979-7a4ad837-b7f2-4f18-b55b-96bec32fa381.png">
 
