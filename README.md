@@ -11,9 +11,9 @@
 
 - 화면이 꽉 찼을 때
 
-<img src="https://user-images.githubusercontent.com/81172451/148514047-99901ab9-1ce9-4f24-bd51-16900564ea2c.png">
+<img src="https://user-images.githubusercontent.com/81172451/148516259-df116f80-6106-4881-853e-328427be7340.png">
 
 - 화면이 작아졌을 때
 
-<img src="https://user-images.githubusercontent.com/81172451/148515646-9976b26d-6eae-4037-8790-c9fc92eb5036.png">
-<img src="https://user-images.githubusercontent.com/81172451/148514979-7a4ad837-b7f2-4f18-b55b-96bec32fa381.png">
+<img src="https://user-images.githubusercontent.com/81172451/148516261-c630b8c7-45dc-42cd-95cf-ed0de0372932.png">
+<img src="https://user-images.githubusercontent.com/81172451/148516266-897b6944-12bb-4a16-987b-7778052c1dde.png">
