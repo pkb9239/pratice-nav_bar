@@ -10,8 +10,8 @@
 ## 실행 화면
 
 - 화면이 꽉 찼을 때
-![1](https://user-images.githubusercontent.com/81172451/148514047-99901ab9-1ce9-4f24-bd51-16900564ea2c.png)
 <img src="https://user-images.githubusercontent.com/81172451/148514047-99901ab9-1ce9-4f24-bd51-16900564ea2c.png" width="700" height="370">
 - 화면이 작아졌을 때
-![2](https://user-images.githubusercontent.com/81172451/148514050-e7982602-8a1f-439b-a956-b7a68e809810.png)
-![3](https://user-images.githubusercontent.com/81172451/148514058-2a40c4bc-77a2-43ad-aef1-6baad55b7658.png)
+- <img src="https://user-images.githubusercontent.com/81172451/148514047-99901ab9-1ce9-4f24-bd51-16900564ea2c.png" width="700" height="370">
+- <img src="https://user-images.githubusercontent.com/81172451/148514058-2a40c4bc-77a2-43ad-aef1-6baad55b7658.png" width="700" height="370">
+
